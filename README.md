@@ -2,7 +2,7 @@
 
 Keep going. Every commit counts.
 
-**Word of the day:** momentum
+**Word of the day:** growth
 
 _Last updated: 2026-07-03 00:01 UTC_
 
