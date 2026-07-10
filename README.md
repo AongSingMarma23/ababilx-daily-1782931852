@@ -2,7 +2,7 @@
 
 Keep going. Every commit counts.
 
-**Word of the day:** discipline
+**Word of the day:** momentum
 
 _Last updated: 2026-07-10 00:02 UTC_
 
