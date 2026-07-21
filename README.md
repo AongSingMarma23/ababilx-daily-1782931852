@@ -2,7 +2,7 @@
 
 Keep going. Every commit counts.
 
-**Word of the day:** clarity
+**Word of the day:** action
 
 _Last updated: 2026-07-21 00:00 UTC_
 
