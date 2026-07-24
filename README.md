@@ -2,7 +2,7 @@
 
 Keep going. Every commit counts.
 
-**Word of the day:** persistence
+**Word of the day:** consistency
 
 _Last updated: 2026-07-24 00:03 UTC_
 
