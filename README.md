@@ -2,9 +2,9 @@
 
 Keep going. Every commit counts.
 
-**Word of the day:** persistence
+**Word of the day:** discipline
 
-_Last updated: 2026-08-22 00:01 UTC_
+_Last updated: 2026-08-23 00:00 UTC_
 
 ---
 *Get your own auto-commit system at [workspace.ababilx.com](https://workspace.ababilx.com)*
