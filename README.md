@@ -2,7 +2,7 @@
 
 Keep going. Every commit counts.
 
-**Word of the day:** focus
+**Word of the day:** discipline
 
 _Last updated: 2026-09-11 00:00 UTC_
 
